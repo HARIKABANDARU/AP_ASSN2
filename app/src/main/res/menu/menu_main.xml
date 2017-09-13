@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:apps="https://schema.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id = "@+id/coverPage"
+        android:title="coverPage"
+        android:icon="@drawable/harika_student_app_icon"
+        >
+
+    </item>
+    <item
+        android:id = "@+id/Cal"
+        android:title="Calculator"
+        app:showAsAction="never"
+        >
+
+    </item>
+
+    <item
+        android:id = "@+id/layout"
+        android:title="Layout"
+        app:showAsAction="never"
+        >
+    </item>
+    <item
+        android:id = "@+id/mList"
+        android:title="MovieList"
+        app:showAsAction="never"
+
+        >
+    </item>
+</menu>
